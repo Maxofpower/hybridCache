@@ -1,0 +1,6 @@
+@hybridChache_HostAddress = http://localhost:5003
+
+GET {{hybridChache_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
